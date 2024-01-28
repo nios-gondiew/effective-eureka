@@ -1,3 +1,3 @@
 # effective-eureka
 
-Keep looking in the commits
+the commit history is the key
